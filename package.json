@@ -1,0 +1,19 @@
+{
+  "name": "ess-discordbot",
+  "version": "1.0.0",
+  "description": "The Discord bot for the ESS Community Discord Server",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "John Mcdowall",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2"
+  }
+}
