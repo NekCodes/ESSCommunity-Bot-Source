@@ -1,0 +1,16 @@
+{
+    "modroles": [
+        {
+            "roleid": "1039942134318501958",
+            "rolename": "Staff"
+        },
+        {
+            "roleid": "1039941885990539305",
+            "rolename": "Server Owner"
+        },
+        {
+            "roleid": "1040026535291273277",
+            "rolename": "Other Bots"
+        }
+    ]
+}

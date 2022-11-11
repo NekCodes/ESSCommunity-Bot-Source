@@ -1,0 +1,220 @@
+{
+    "FilteredWords": [
+        {
+            "phrase": "nigger",
+            "instaBan": true,
+            "instaMute": false,
+            "instaWarning": false,
+            "instaDelete": true,
+            "reason": "Racist"
+        },
+        {
+            "phrase": "nigga",
+            "instaBan": true,
+            "instaMute": false,
+            "instaWarning": false,
+            "instaDelete": true,
+            "reason": "Racist"
+        },
+        {
+            "phrase": "dick",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "pussy",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "asshole",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "shit",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "anal",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "bastard",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "bitch",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "tits",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "titties",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "blow job",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "bj",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "cock",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "bullshit",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "faggot",
+            "instaBan": true,
+            "instaMute": false,
+            "instaWarning": false,
+            "instaDelete": false,
+            "reason": "homophobic"
+        },
+        {
+            "phrase": "cumslut",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "slut",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "clit",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "cunt",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "dickhead",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "dickhead",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "dumbass",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "eatpussy",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "fags",
+            "instaBan": true,
+            "instaMute": false,
+            "instaWarning": false,
+            "instaDelete": false,
+            "reason": "homophobic"
+        },
+        {
+            "phrase": "fat",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        },
+        {
+            "phrase": "fat",
+            "instaBan": false,
+            "instaMute": false,
+            "instaWarning": true,
+            "instaDelete": true,
+            "reason": "Inapproprate"
+        }
+    ]
+}
